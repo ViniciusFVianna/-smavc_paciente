@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">PACIENTE</string>
+    <string name="app_pressao">PRESSÃO</string>
+    <string name="app_historico">HISTÓRICO</string>
+    <string name="app_cadastro">CADASTRO</string>
+    <string name="app_sobre">SOBRE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Sobre</string>
+
+
+    <string name="smavc">Sistema de monitoramento de AVC</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="btnOk">OK</string>
+    <string name="cadastro">CADASTRAR</string>
+    <string name="operad">OPERADOR</string>
+    <string name="usuario">USER</string>
+    <string name="paciente">PACIENTE</string>
+    <string name="pressao">Medidor de Prossão</string>
+    <string name="sint">Sintomas</string>
+    <string name="cad">Cadastrar conta!</string>
+    <string name="historic">Histórico</string>
+
+    <string name="nome">Nome</string>
+    <string name="btn_cad">Cadastrar</string>
+
+    <string name="sobre">
+        Aplicativo desenvolvido com foco na prevenção
+        de acidente vascular cerebral (AVC).
+    </string>
+
+    <string name="sint_1">Fraqueza ou dormência súbita em um lado do corpo.</string>
+    <string name="sint_2">Confusão, dificuldade para falar ou de inicio súbito.</string>
+    <string name="sint_3">Dificuldade súbita para enxegar co um ou ambos os olhos.</string>
+    <string name="sint_4">Dificuldade súbita para andar , tontura ou incoordenação de inicio súbito.</string>
+    <string name="sint_5">Cefaléia intensa e súbita sem causa aparente.</string>
+    <string name="sint_6">Outros sintomas neurológicos faciais agudos sugentivos de AVC.</string>
+
+    <string name="data_ini">Data de inicio:</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="avc_hpr_agudo">AVC hiperagudo?</string>
+    <string name="hora_ini">Hora de inicio sintomas</string>
+    <string name="ultimos_sints">Ultima vez em que foi visto sem sintomas?</string>
+
+    <string-array name="array_usuario">
+        <item>Selecione</item>
+        <item>Paciente</item>
+        <item>Operador</item>
+        <item>Cuidador</item>
+    </string-array>
+
+    <string-array name="sexo">
+        <item>Selecione</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+
+    <string name="idade">idade</string>
+    <string name="erro">ERRO!</string>
+    <string name="msg_erro">Preencha todos os campos!</string>
+
+    <string name="not_log_in">Não é possível realizar  login</string>
+    <string name="log_out">Log Out</string>
+    <string name="revoke">Revoke</string>
+    <string name="not_close_session">Não pode encerrar a seção</string>
+    <string name="not_autenticated">Não pode autenticar com Firebase</string>
+    <string name="usuario_cadastrado">Paciente cadastrado com sucesso!</string>
+    <string name="operador_cadast">Operador cadastrado com sucesso!</string>
+    <string name="cadastrad_cuidador">Cuidador cadastrado com sucesso!</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "326372711565",
+    "firebase_url": "https://smavc-6431d.firebaseio.com",
+    "project_id": "smavc-6431d",
+    "storage_bucket": "smavc-6431d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326372711565:android:328aca309f5f369c",
+        "android_client_info": {
+          "package_name": "com.example.viniciusvianna.smavc_paciente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326372711565-pntnl72rtjcrj6ss2l4e631sq35llomm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viniciusvianna.smavc_paciente",
+            "certificate_hash": "41b0609d0a28a65af12329c9bf8d564547494ac4"
+          }
+        },
+        {
+          "client_id": "326372711565-c5om0mvhoo0ohvkmnin9te5src0pdom7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPtSj14-vYgq2s0xQivJcP614jlmscRfM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326372711565-c5om0mvhoo0ohvkmnin9te5src0pdom7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
